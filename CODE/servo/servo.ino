@@ -7,10 +7,10 @@ void setup() {
 }
 
 void loop() {
-  s1.write(0);
-  delay(2000);
-  s1.write(45);
-  delay(2000);
+  s1.write(130);
+  delay(200);
+  s1.write(175);
+  delay(200);
   // put your main code here, to run repeatedly:
 
 }
